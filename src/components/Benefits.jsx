@@ -2,7 +2,7 @@ import { cableIcon, globalIcon, accountIcon, chartIcon, mountain } from '../asse
 
 function Benefits() {
   return (
-    <div className="px-20 mx-10">
+    <div className="mx-10">
       <div>
         <p className="text-green-700 mt-10 text-sm">Benefits</p>
         <h1 className="text-4xl font-medium font-serif mt-5 px-4 py-4">
@@ -55,7 +55,7 @@ function Benefits() {
         </div>
       </div>
 
-      <div>
+      <div >
         <img 
           src={mountain} 
           alt="Mountain landscape" 
