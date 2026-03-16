@@ -3,7 +3,7 @@ function Navbar(){
     <header>
       <nav className="relative container flex justify-between p-6 items-center">
         <p className="text-[32px] font-semibold">Area</p>
-        <div className="fixed left-0 right-0 z[999] mx-auto w-max space-x-6 font-semibold rounded-full bg-transparent p-5 backdrop-blur">
+        <div className="fixed left-0 right-0 z[999] mx-auto w-max space-x-6 font-semibold rounded-full bg-transparent p-5 backdrop-blur-md">
           <a href='#' className="hover:text-blue-400">Benefits</a>
           <a href='#' className="hover:text-blue-400">Specifications</a>
           <a href='#' className="hover:text-blue-400"> How-to</a>

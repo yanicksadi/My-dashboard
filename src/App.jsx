@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Trustedby from "./components/Trustedby"
 import Benefits from "./components/Benefits"
 import BigPicture from "./components/BigPicture"
+
 function App() {
   return (
     <>
