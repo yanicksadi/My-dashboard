@@ -4,6 +4,7 @@ import Trustedby from "./components/Trustedby"
 import Benefits from "./components/Benefits"
 import BigPicture from "./components/BigPicture"
 import Choice from "./components/Choice"
+import Table from "./components/Table"
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Benefits/>
       <BigPicture/>
       <Choice/>
+      <Table/>
     </>
   )
 }
