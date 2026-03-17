@@ -4,19 +4,21 @@ import Trustedby from "./components/Trustedby"
 import Benefits from "./components/Benefits"
 import BigPicture from "./components/BigPicture"
 import Choice from "./components/Choice"
-import Table from "./components/Table"
+import ComparisonTable from "./components/ComparisonTable"
+import Testimonial from "./components/Testimonial"
 
 
 function App() {
   return (
     <>
-      <Navbar/>
-      <Hero/>
-      <Trustedby/>
-      <Benefits/>
-      <BigPicture/>
-      <Choice/>
-      <Table/>
+      <Navbar />
+      <Hero />
+      <Trustedby />
+      <Benefits />
+      <BigPicture />
+      <Choice />
+      <ComparisonTable/>
+      <Testimonial/>
     </>
   )
 }

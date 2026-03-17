@@ -12,8 +12,8 @@ import accountIcon from './Account icon.png'
 import chartIcon from './Chart icon.png'
 import mountain from './Mountain.jpg'
 import featuresCarousel from './Features carousel v1.png'
-import checkIcon from './Check icon.png'
-import closeIcon from './Close icon.png'
+import CheckIcon from './Check icon.png'
+import CloseIcon from './Close icon.png'
 import testimonialImage from './Image.png'
 import heroImage from './Hero image.png'
 import footerLogo from './Logo.png'
@@ -32,8 +32,8 @@ export {
   chartIcon,
   mountain,
   featuresCarousel,
-  checkIcon,
-  closeIcon,
+  CheckIcon,
+  CloseIcon,
   testimonialImage,
   heroImage,
   footerLogo
