@@ -16,7 +16,7 @@ function ComparisonTable() {
             </tr>
           </thead>
 
-          <tbody className="text-[15px] ">
+          <tbody className="text-[15px]">
 
             <tr className="border-b border-gray-200">
               <td className="p-5 text-left border border-t-gray-700">

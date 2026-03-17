@@ -7,6 +7,8 @@ import Choice from "./components/Choice"
 import ComparisonTable from "./components/ComparisonTable"
 import Testimonial from "./components/Testimonial"
 import MapSuccess from "./components/MapSuccess"
+import LearnMore from "./components/LearnMore"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
       <ComparisonTable/>
       <Testimonial/>
       <MapSuccess/>
+      <LearnMore/>
+      <Footer/>
     </>
   )
 }
