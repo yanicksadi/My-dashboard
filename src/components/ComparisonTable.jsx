@@ -6,17 +6,17 @@ import { CloseIcon } from '../assets/images/index'
 
 function ComparisonTable() {
   return (
-      <div className="max-w-full mt-24 bg-white mx-10">
+      <div className="max-w-full mt-24 bg-white mx-10 ">
         <table className="w-full text-lg">
           <thead>
             <tr>
-              <th className="text-center text-2xl font-semibold py-6 px-6 border shadow-lg rounded-t-lg">Area</th>
-              <th className="text-center border-b border-gray-700 text-xl font-semibold text-gray-500">WebSurge</th>
-              <th className="text-center text-xl font-semibold text-gray-500 border-b border-gray-700"> HyperView</th>
+              <th className="text-center text-3xl font-semibold py-6 px-6 border shadow-lg rounded-t-lg">Area</th>
+              <th className="text-center border-b border-gray-700 text-3xl font-semibold text-gray-500">WebSurge</th>
+              <th className="text-center text-3xl font-semibold text-gray-500 border-b border-gray-700"> HyperView</th>
             </tr>
           </thead>
 
-          <tbody className="text-[12px]">
+          <tbody className="text-[15px] ">
 
             <tr className="border-b border-gray-200">
               <td className="p-5 text-left border border-t-gray-700">

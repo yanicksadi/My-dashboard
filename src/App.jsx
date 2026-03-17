@@ -6,7 +6,7 @@ import BigPicture from "./components/BigPicture"
 import Choice from "./components/Choice"
 import ComparisonTable from "./components/ComparisonTable"
 import Testimonial from "./components/Testimonial"
-
+import MapSuccess from "./components/MapSuccess"
 
 function App() {
   return (
@@ -19,6 +19,7 @@ function App() {
       <Choice />
       <ComparisonTable/>
       <Testimonial/>
+      <MapSuccess/>
     </>
   )
 }
